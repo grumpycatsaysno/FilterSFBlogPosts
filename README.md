@@ -1,5 +1,5 @@
 # FilterSFBlogPosts
-This srepository comes as a solution for filtering Sitefinity blog posts by multiple months and dates
+This repository comes as a solution for filtering Sitefinity blog posts by multiple months and dates
 
 ### Filter blog posts sample
 
