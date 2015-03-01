@@ -7,6 +7,10 @@ Sitefinity provides an amazingly quick and easy-to-use way to create blog posts 
 
 In some cases you may want to display blog posts filtered by multiple dates of publication. This repository contains the code for filtering blog posts by multiple years and dates.
 
+### License information
+
+This project has been released under the Apache License, version 2.0, the text of which is included in the repository.
+
 ### Additional resources:
 
 For more detailed explanation on the code see:
